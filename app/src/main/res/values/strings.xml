@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Aether Agent</string>
+    <string name="nav_agent">Agent</string>
+    <string name="nav_memory">Memory</string>
+    <string name="nav_workspace">Workspace</string>
+    <string name="nav_device">Control</string>
+    <string name="nav_harness">Brain</string>
+    <string name="tts_toggle_desc">Toggle speech output</string>
+    <string name="memory_button_desc">Inspect autonomous memory</string>
+    <string name="model_selector_desc">Select active AI model</string>
+    <string name="upload_file_desc">Attach image or document</string>
+    <string name="camera_capture_desc">Show camera view to agent</string>
+    <string name="send_message_desc">Send message to agent</string>
+    <string name="proactive_pulse_desc">Trigger autonomous agent initiative</string>
+    <string name="refresh_catalog_desc">Sync live model catalog</string>
+    <string name="search_web_toggle_desc">Toggle real-time web search</string>
+    <string name="workspace_quota_title">1.00 GB Autonomous Workspace</string>
+    <string name="message_placeholder">Direct Aether, show an image, or assign a task…</string>
+</resources>

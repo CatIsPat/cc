@@ -1,0 +1,30 @@
+package com.example.ui.theme
+
+import androidx.compose.ui.graphics.Color
+
+// Warm Architectural Editorial Palette (Zero Neon)
+val AlabasterCream = Color(0xFFF7F4EF)
+val WarmSandstone = Color(0xFFEDE7DD)
+val TravertineSurface = Color(0xFFE3DBD0)
+val EspressoInk = Color(0xFF191B1A)
+val CharcoalMuted = Color(0xFF565956)
+val TerracottaBronze = Color(0xFFB85D3B)
+val TerracottaLight = Color(0xFFF5DDD3)
+val DeepMineralSlate = Color(0xFF23393D)
+val MineralSlateContainer = Color(0xFFD5E4E6)
+val SageBotanical = Color(0xFF3E6B52)
+val SageContainer = Color(0xFFD7EAE0)
+val AmberOchra = Color(0xFFC28429)
+val CrimsonClay = Color(0xFFAC3931)
+
+// Dark Editorial Palette (Warm Obsidian & Brushed Bronze)
+val ObsidianBg = Color(0xFF121515)
+val ObsidianSurface = Color(0xFF1B2020)
+val ObsidianCard = Color(0xFF242B2B)
+val IvoryText = Color(0xFFF2ECE1)
+val StoneTextMuted = Color(0xFFA7A29A)
+val BrushedAmberBronze = Color(0xFFD8885C)
+val BronzeContainerDark = Color(0xFF4F2B1A)
+val MineralTealLight = Color(0xFF83B4BA)
+val MineralTealContainerDark = Color(0xFF1A3438)
+val SageGreenLight = Color(0xFF86B89B)

@@ -1,0 +1,6 @@
+{
+  "name": "Aether Agent",
+  "description": "Autonomous personal AI agent with self-managed memory, 1 GB virtual workspace, multi-stage reasoning harness, multimodal vision and document uploads, live web search, speech synthesis, dynamic model catalog, and device action control.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
